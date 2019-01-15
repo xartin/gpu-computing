@@ -6,8 +6,8 @@ Current as of 14/01/2019
 
 [gpu-computing]
 
-# Gentoo Linux Portage overlay for gpu compute ebuilds
-# Maintainer: xartin (https://github.com/xartin)
+Gentoo Linux Portage overlay for gpu compute ebuilds
+Maintainer: xartin (https://github.com/xartin)
 
 location = /usr/local/portage/gpu-computing
 sync-type = git
